@@ -20,6 +20,9 @@ importers:
       '@eslint/js':
         specifier: ^9.33.0
         version: 9.34.0
+      '@monorepo-test/design-system':
+        specifier: workspace:*
+        version: link:../../packages/design-system
       '@types/react':
         specifier: ^19.1.10
         version: 19.1.12
@@ -44,6 +47,22 @@ importers:
       vite:
         specifier: ^7.1.2
         version: 7.1.4
+
+  packages/design-system:
+    dependencies:
+      react:
+        specifier: ^19.1.1
+        version: 19.1.1
+      react-dom:
+        specifier: ^19.1.1
+        version: 19.1.1(react@19.1.1)
+    devDependencies:
+      '@types/react':
+        specifier: ^19.1.9
+        version: 19.1.12
+      '@types/react-dom':
+        specifier: ^19.1.7
+        version: 19.1.9(@types/react@19.1.12)
 
 packages:
 
