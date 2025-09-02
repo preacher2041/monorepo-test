@@ -10,7 +10,7 @@ function App() {
 
   return (
     <>
-      <div>
+      <div className='bg-mint-500'>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
