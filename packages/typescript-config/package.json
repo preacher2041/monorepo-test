@@ -1,0 +1,10 @@
+{
+  "name": "@monorepo-test/typescript-config",
+  "version": "1.0.0",
+  "description": "A shared TypeScript configuration for Monorepo Test projects",
+  "author": {
+    "name": "Lee Hitchcock",
+    "email": "lee.hitchcock2041@gmail.com"
+  },
+  "license": "ISC"
+}

@@ -9,5 +9,8 @@
   "license": "ISC",
   "scripts": {
     "preinstall": "npx only-allow pnpm"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
   }
 }
