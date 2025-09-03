@@ -1,5 +1,5 @@
 {
-  "name": "@monorepo-test/design-system",
+  "name": "@monorepo-test/ui",
   "version": "1.0.0",
   "description": "A UI library for Monorepo test application",
   "author": {

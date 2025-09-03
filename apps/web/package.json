@@ -21,7 +21,7 @@
   "devDependencies": {
     "@eslint/eslintrc": "^3.3.1",
     "@eslint/js": "^9.33.0",
-    "@monorepo-test/design-system": "workspace:*",
+    "@monorepo-test/ui": "workspace:*",
     "@monorepo-test/eslint-config": "workspace:*",
     "@monorepo-test/prettier-config": "workspace:*",
     "@monorepo-test/tailwind-config": "workspace:*",
