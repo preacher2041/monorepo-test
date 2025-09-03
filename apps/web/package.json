@@ -26,6 +26,7 @@
     "@monorepo-test/prettier-config": "workspace:*",
     "@monorepo-test/tailwind-config": "workspace:*",
     "@monorepo-test/typescript-config": "workspace:*",
+    "@monorepo-test/vitest-config": "workspace:*",
     "@types/react": "^19.1.10",
     "@types/react-dom": "^19.1.7",
     "@vitejs/plugin-react": "^5.0.0",
