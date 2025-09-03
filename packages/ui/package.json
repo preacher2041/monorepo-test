@@ -12,8 +12,11 @@
     ".": "./src/index.ts"
   },
   "dependencies": {
-    "react": "^19.1.1",
-    "react-dom": "^19.1.1"
+    "clsx": "^1.2.1"
+  },
+  "peerDependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "@monorepo-test/eslint-config": "workspace:*",
@@ -24,6 +27,8 @@
     "@types/react-dom": "^19.1.7",
     "eslint": "^9.32.0",
     "prettier": "^3.5.3",
-    "typescript": "^5.8.3"
+    "typescript": "^5.8.3",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
   }
 }
